@@ -4,7 +4,7 @@ Web.Api service project that generates thumbnails for provided files. Accepted f
 using file id. Both routes use background job service Hangfire. 
 
 ## Used NuGet packages
-1. For images https://github.com/dlemstra/Magick.NET
+1. For images [https://github.com/dlemstra/Magick.NET]
 2. For videos https://www.nuget.org/packages/FFMpegCore/ + executable https://ffmpeg.org/download.html
 3. For Office documents https://www.nuget.org/packages/FreeSpire.Office/
 4. For PDF https://github.com/jbaarssen/PdfLibCore
