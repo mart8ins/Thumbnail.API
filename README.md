@@ -9,4 +9,5 @@ Web.Api service project that generates thumbnails for provided files. Accepted f
 4. For PDF https://github.com/jbaarssen/PdfLibCore
 5. For logging https://serilog.net/
 6. Background jobs https://www.hangfire.io/
+7. For database, ORM https://github.com/DapperLib/Dapper
  
