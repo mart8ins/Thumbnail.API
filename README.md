@@ -5,7 +5,9 @@ using file id. Both routes use background job service Hangfire.
 
 ## Used NuGet packages
 1. For images https://github.com/dlemstra/Magick.NET
-2. For videos https://github.com/cmxl/FFmpeg.NET + executable https://ffmpeg.org/download.html
+2. For videos https://www.nuget.org/packages/FFMpegCore/ + executable https://ffmpeg.org/download.html
 3. For Office documents https://www.nuget.org/packages/FreeSpire.Office/
 4. For PDF https://github.com/jbaarssen/PdfLibCore
+5. For logging https://serilog.net/
+6. Background jobs https://www.hangfire.io/
  
